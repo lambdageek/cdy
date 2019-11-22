@@ -1,0 +1,6 @@
+# backup files
+*~
+
+# build artifacts
+/foo
+/libcdy.dylib

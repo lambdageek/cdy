@@ -1,0 +1,3 @@
+[build]
+rustflags = ["-C", "link-args=-install_name @executable_path/libcdy.dylib"]
+
